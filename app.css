@@ -1,0 +1,37 @@
+
+ #image {
+  max-width: 2000px;
+  max-height: 2500px;
+  border: none;
+
+ }
+
+#output{
+  font-weight: bolder;
+  font-size: 36px;
+  transform: skewX(-25deg);
+  /*transform: skewY(25deg);*/
+  position: fixed;
+  text-align: left;
+
+
+
+}
+
+ .buttons {
+  width: 60%;
+  position: relative;
+  font-size: 300%;
+  font-weight: bolder;
+  padding-left: 30px;
+ }
+
+.container {
+  width: 100%;
+  margin-right: 25%;
+  margin-left: 25%;
+  padding: 20px;
+}
+body{
+  background-color: pink;
+}
